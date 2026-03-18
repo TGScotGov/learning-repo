@@ -4,4 +4,6 @@ This is a demo set up!
 
 ## Subheader
 
-You just succesfully updated README and pushed the code from the local REPO to the GITHUB Rpo!
+You just succesfully updated README and pushed the code from the local REPO to the GITHUB Repo!
+
+Updated and amended a spelling mistake.
